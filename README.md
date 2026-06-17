@@ -1,4 +1,4 @@
-# Bungalow
+# Pavilion
 
 A single-storey modernist residence. No stairs. No first floor. Every room on the ground, every room with garden access.
 
